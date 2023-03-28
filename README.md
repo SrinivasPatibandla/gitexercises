@@ -1,2 +1,3 @@
 # gitexercises
-This is for b42 &amp; b43
+
+This is for Java project
